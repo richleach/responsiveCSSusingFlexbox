@@ -1,3 +1,3 @@
-# responsiveCSSusingFlexobx
+# responsiveCSSusingFlexbox
 HTML and CSS from some online training from Kevin Powell reviewing a simple mobile first and browser version of the same pages (wanted to make sure I gave credit where it's due....) I'm always building apps like this but seem to forget the syntax or code for the basic layout, so here's the HTML file (simple, semantic HTML with designated class names) and CSS (again, pretty simple code but flexbox is employed within media queries to render the changes as the screen sizes change).
 If you're using this like I do (as a starting point/starter template) then copy the files locally to your computer, make sure the paths are correct for the images and CSS file (adjust as needed, they're just HTML assets and you can put them where ever you please). Tweak and adjust the values as you like. 
